@@ -7,6 +7,7 @@
 ## Tests
 - Run `cargo test` to ensure that unit and integration tests pass.
 - If tests fail due to missing dependencies or environment limitations, note it in the PR.
+- These tests require the `clippy` component. Install it with `rustup component add clippy` if it's missing.
 
 ## Running Rustlings
 - Use `cargo run -- -V` to verify the Rustlings version.
