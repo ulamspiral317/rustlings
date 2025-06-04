@@ -1,6 +1,6 @@
 fn main() {
-    // TODO: Change the line below to fix the compiler error.
-    let x;
+    // Initialize the variable so it can be used below.
+    let x = 10;
 
     if x == 10 {
         println!("x is ten!");
